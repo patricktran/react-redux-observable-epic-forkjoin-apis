@@ -1,5 +1,5 @@
 # React - Redux Observable ForkJoin Apis
-Sample project demonstrating how to forkjoin Api calls using Redux Observable Epic (RxJs 6.x.x).
+Sample project demonstrating how to forkJoin Api calls using Redux Observable Epic (RxJs 6.x.x).  
 forkJoin is the Promise.all() of RxJs.
 
 [forkJoin - learnrxjs.io](https://www.learnrxjs.io/operators/combination/forkjoin.html)
