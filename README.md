@@ -11,3 +11,5 @@ Project Setup
 * React Redux v5.1.1
 * Redux Observable v1.0.0
 * RxJs v6.3.3
+
+![screenshot](/screenshot.png?raw=true)
