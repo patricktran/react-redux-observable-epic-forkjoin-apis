@@ -5,7 +5,7 @@ const loadData = () => ({
 });
 
 const setData = (jedi, planet, starship) => ({
-    type: types.LOAD_DATA,
+    type: types.SET_DATA,
     payload: {
         jedi,
         planet,
