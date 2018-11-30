@@ -16,7 +16,7 @@ class App extends Component {
   
     return (
       <div className="App">
-        <button onClick={this.loadDataClickHandler}>Show me Star Wars Info!<br/>:: May the ForkJoin Be With You ::</button>
+        <button onClick={this.loadDataClickHandler}>Show Me Star Wars Info!<br/>:: May the ForkJoin Be With You ::</button>
 
         <div className="data">
           {jedi &&
